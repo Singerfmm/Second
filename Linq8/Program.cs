@@ -45,8 +45,7 @@ namespace ConsoleApp1
         [Column]
         public string Name;
 
-        [Column]
-        public int pwd;
+        
     }
 
 
